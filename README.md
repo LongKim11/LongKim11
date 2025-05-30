@@ -1,6 +1,4 @@
-# 💫 About Me
-
-## 👋 Hey there, I'm Long!
+# 👋 Hey there, I'm Long!
 
 In most games, you'll probably see me as **"long time no see"** —  
 not because I’m mysterious, just because I thought it sounded cool 😎
@@ -11,9 +9,6 @@ not because I’m mysterious, just because I thought it sounded cool 😎
 - 🎧 I vibe to music like it’s the soundtrack of my life  
 - ⚽ I love sports because that’s where I get to shine  
 - 🎮 I game with friends — mostly for laughs, not wins
-
----
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vokimlong.11) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drvke.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vokimlong11) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kimlong1912) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vokimlong11.cs@gmail.com) 
