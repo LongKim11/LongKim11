@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm Long!
 
-## In most games, you'll probably see me as **"long time no see"** —  not because I’m mysterious, just because I thought it sounded cool 😎
+In most games, you'll probably see me as **"long time no see"** —  not because I’m mysterious, just because I thought it sounded cool 😎
 
-## 🎯 **Short-term goal:** Become a fullstack developer — basically an octopus on caffeine.
+🎯 **Short-term goal:** Become a fullstack developer — basically an octopus on caffeine.
 
-## 🧘‍♂️ Outside of coding:  
+🧘‍♂️ Outside of coding:  
 - 🎧 I vibe to music like it’s the soundtrack of my life  
 - ⚽ I love sports because that’s where I get to shine  
 - 🎮 I game with friends — mostly for laughs, not wins
