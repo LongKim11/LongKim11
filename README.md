@@ -10,7 +10,7 @@ In most games, you'll probably see me as **"long time no see"** —  not because
 
 🧘‍♂️ **Outside of coding**:  
 - 🎧 I vibe to music like it’s the soundtrack of my life  
-- ⚽ I love sports because that’s where I get to shine  
+- ⚽ I love sports because I am Cristiano Ronaldo
 - 🎮 I game with friends — mostly for laughs, not wins
 
 ## 🌐 Socials:
