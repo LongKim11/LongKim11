@@ -22,4 +22,6 @@ In most games, you'll probably see me as **"long time no see"** —  not because
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LongKim11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false&order=2" height="165" alt="languages graph"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/LongKim11/LongKim11/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
