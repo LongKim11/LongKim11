@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Long!
 
-In most games, you'll probably see me as **"long time no see"** —  
-not because I’m mysterious, just because I thought it sounded cool 😎
+In most games, you'll probably see me as **"long time no see"** —  not because I’m mysterious, just because I thought it sounded cool 😎
 
 🎯 **Short-term goal:** Become a fullstack developer — basically an octopus on caffeine.
 
