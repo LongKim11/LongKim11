@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif"  />
+</div>
+
 # 👋 Hey there, I'm Long!
 
 In most games, you'll probably see me as **"long time no see"** —  not because I’m mysterious, just because I thought it sounded cool 😎
